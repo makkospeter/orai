@@ -1,0 +1,18 @@
+#angol {
+    border:10px solid black;
+    padding: 5px
+ }
+ .tanár {
+    border: 10px solid darkgray;
+    margin: 0 20px;
+    padding: 5px
+ }
+.fontos {
+    color:red; 
+    font:bold;
+}
+.szellős {
+color: rgb(5, 145, 75);
+font-style: italic;
+
+}
