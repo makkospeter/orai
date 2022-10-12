@@ -16,3 +16,6 @@ color: rgb(5, 145, 75);
 font-style: italic;
 
 }
+ ul {
+    list-style-image: url(images/leverton_kicsi.jpg); height: auto ; 
+ }
