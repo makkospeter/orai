@@ -1,4 +1,4 @@
-table,td {
+table,td,th {
     border:1px
     solid
     darkblue;
@@ -6,4 +6,22 @@ table,td {
 }
 div ,p {
     background-color: aquamarine;
+}
+th {
+    background-color: aquamarine;
+    color: rgb(15, 15, 15); 
+}
+td,th {
+    padding:5px;
+}
+.kozep {
+    text-align: center;
+}
+table {
+    width: 100%;
+}
+hr {
+    margin-top: 20px;
+    margin-bottom: 20px;
+    border: 1px  solid blue;
 }
